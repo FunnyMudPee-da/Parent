@@ -3,5 +3,6 @@ public class test01 {
         System.out.println("123");
         System.out.println("asd");
         System.out.println("qwe");
+        System.out.println("uio");
     }
 }
